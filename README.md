@@ -33,7 +33,8 @@ This project analyzes Amazon sales data using Microsoft Excel and presents key b
 - Cancellation and return rates remained low.
 - Credit Card was the most preferred payment method.
 
+# Dashboard
+<img width="1830" height="778" alt="Screenshot 2026-06-16 192718" src="https://github.com/user-attachments/assets/588b0f36-7e85-42a5-9603-3e0662b5d86d" />
+
 ## Author
 Nisita Das
-
-<img width="1830" height="778" alt="Screenshot 2026-06-16 181549" src="https://github.com/user-attachments/assets/d1bf1b92-d660-4fea-aa66-eee5b070d419" />																																
